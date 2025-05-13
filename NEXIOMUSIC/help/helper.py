@@ -10,15 +10,15 @@ class Helper(object):
     HELP_SUPPORT = '''
 **❖ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ
 
-❍ ɪғ ʏᴏᴜ ғɪɴᴅ ᴀɴʏ ᴇʀʀᴏʀ ᴏʀ ʙᴜɢ ᴏɴ ʙᴏᴛ ᴏʀ ᴡᴀɴᴛ ᴛᴏ ɢɪᴠᴇ ᴀɴʏ ғᴇᴇᴅʙᴀᴄᴋ ᴀʙᴏᴜᴛ ᴛʜᴇ ʙᴏᴛ ᴛʜᴇɴ ʏᴏᴜ ᴀʀᴇ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/THUNDERDEVS)**
+❍ ɪғ ʏᴏᴜ ғɪɴᴅ ᴀɴʏ ᴇʀʀᴏʀ ᴏʀ ʙᴜɢ ᴏɴ ʙᴏᴛ ᴏʀ ᴡᴀɴᴛ ᴛᴏ ɢɪᴠᴇ ᴀɴʏ ғᴇᴇᴅʙᴀᴄᴋ ᴀʙᴏᴜᴛ ᴛʜᴇ ʙᴏᴛ ᴛʜᴇɴ ʏᴏᴜ ᴀʀᴇ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/+AaI_GATiYwQ5NjU1)**
 '''
 
     HELP_ABOUT = '''
-**❖ ๏ ʟᴇᴛ's ɪɴᴛʀᴏᴅᴜᴄᴇ [ɪsᴛᴋʜᴀʀ-ᴍᴜsɪᴄ](https://t.me/ll_MY_BOTS) ʙᴏᴛ
+**❖ ๏ ʟᴇᴛ's ɪɴᴛʀᴏᴅᴜᴄᴇ [Jani-ᴍᴜsɪᴄ](https://t.me/Jani_Music_Robot) ʙᴏᴛ
 
-➻ [ɪsᴛᴋʜᴀʀ-ᴍᴜsɪᴄ](https://t.me/ll_MY_BOTS)  ɪs ᴏɴᴇ ᴏғ ᴛʜᴇ ʙᴇsᴛ ᴍᴜsɪᴄ | ᴠɪᴅᴇᴏ sᴛꝛᴇᴀᴍɪɴɢ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢꝛᴧᴍ ғᴏꝛ ʏᴏᴜꝛ ɢꝛᴏᴜᴘs ᴀɴᴅ ᴄʜᴧɴɴᴇʟ
+➻ [Jani-ᴍᴜsɪᴄ](https://t.me/Jani_Music_Robot)  ɪs ᴏɴᴇ ᴏғ ᴛʜᴇ ʙᴇsᴛ ᴍᴜsɪᴄ | ᴠɪᴅᴇᴏ sᴛꝛᴇᴀᴍɪɴɢ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢꝛᴧᴍ ғᴏꝛ ʏᴏᴜꝛ ɢꝛᴏᴜᴘs ᴀɴᴅ ᴄʜᴧɴɴᴇʟ
 
-๏ ᴡʜʏ [˹ ɪsᴛᴋʜᴀʀ ᴍᴜsɪᴄ ˼](https://t.me/ll_MY_BOTS) ɪs ʙᴇsᴛ ?
+๏ ᴡʜʏ [˹ Jani ᴍᴜsɪᴄ ˼](https://t.me/Jani_Music_Robot) ɪs ʙᴇsᴛ ?
 
 ➻ ʙᴇsᴛ sᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ
 ➻ ᴍᴜsɪᴄ ʙᴏᴛ ғᴇᴀᴛᴜʀᴇs
@@ -32,12 +32,12 @@ class Helper(object):
 
 ᴀʟʟ ᴛʜᴇ ғᴇᴀᴛᴜʀᴇs ᴀʀᴇ ᴡᴏʀᴋɪɴɢ ғɪɴᴇ
 
-❖ JOIN [CHANNEL](https://t.me/ll_MY_BOTS) |×| [GROUP](https://t.me/THUNDERDEVS)**
+❖ JOIN [CHANNEL](https://t.me/Jani_RP) |×| [GROUP](https://t.me/+AaI_GATiYwQ5NjU1)**
 '''
 
 
     HELP_GUIDE = '''
-**❖ ʜᴇʏ ᴅᴇᴀʀ ᴛʜɪs ɪs ᴀ ǫᴜɪᴄᴋ ᴀɴᴅ sɪᴍᴘʟᴇ ɢᴜɪᴅᴇ ᴛᴏ ᴜsɪɴɢ [ɪsᴛᴋʜᴀʀ-ᴍᴜsɪᴄ](https://t.me/ll_MY_BOTS)
+**❖ ʜᴇʏ ᴅᴇᴀʀ ᴛʜɪs ɪs ᴀ ǫᴜɪᴄᴋ ᴀɴᴅ sɪᴍᴘʟᴇ ɢᴜɪᴅᴇ ᴛᴏ ᴜsɪɴɢ [Jani-ᴍᴜsɪᴄ](https://t.me/Jani_Music_Robot)
 
 1) ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ 'ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ' ʙᴜᴛᴛᴏɴ
 2) sᴇʟᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɴᴀᴍᴇ
@@ -52,9 +52,9 @@ class Helper(object):
 **❖ ʜᴇʏ, ɪ ᴀᴍ ɢʟᴀᴅ ᴛᴏ ᴋɴᴏᴡ ʏᴏᴜ ᴀʀᴇ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ᴅᴏɴᴀᴛɪɴɢ ᴜs ᴛʜᴀᴛ ᴍᴇᴀɴ ᴀ ʟᴏᴛ :)
 
 ᴡᴇ ᴘʀᴏᴠɪᴅᴇ 24×7 ᴍᴜsɪᴄ sᴇʀᴠɪᴄᴇ sᴏ ᴡᴇ ᴀʟsᴏ ɴᴇᴇᴅ sᴏᴍᴇ ʜᴇʟᴘ ғᴏʀ ɪᴛ, ᴅᴏɴᴀᴛᴇ ɴᴏᴡ ᴠɪᴀ :-
-• ᴜᴘɪ ɪᴅ » **`istkharalam-786@ybl`
-**• ǫʀ ᴄᴏᴅᴇ » [ᴛᴀᴘ ᴛᴏ sᴇᴇ ǫʀ ᴄᴏᴅᴇ](https://files.catbox.moe/nm9509.jpg) **
-**• ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ʙʏ ᴄᴏɴᴛᴀᴄᴛɪɴɢ [ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/ll_ISTKHAR_BABY_lll) 🚩
+• ᴜᴘɪ ɪᴅ » **`8905035197@pthdfc`
+**• ǫʀ ᴄᴏᴅᴇ » [ᴛᴀᴘ ᴛᴏ sᴇᴇ ǫʀ ᴄᴏᴅᴇ](https://files.catbox.moe/brvewy.jpg) **
+**• ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ʙʏ ᴄᴏɴᴛᴀᴄᴛɪɴɢ [ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/Jani_RP_Lover) 🚩
 
 ʏᴏᴜʀ sᴍᴀʟʟ ᴀᴍᴏᴜɴᴛ ᴄᴀɴ ʜᴇʟᴘ ᴜs ᴀɴᴅ ɪsᴛᴋʜᴀʀ ᴛᴏ ɢʀᴏᴡ ᴍᴏʀᴇ**
 '''
