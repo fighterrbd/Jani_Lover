@@ -45,7 +45,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         bar = "-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ✄·─"
     else:
         bar = "-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ✄·"
-    buttons = [
+   # buttons = [
         [
         ]
             
